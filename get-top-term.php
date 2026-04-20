@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Служебный: Get Top Term: Получить ID категории самого верхнего уровня
  * Description: Плагин позволяет получать ID категории текущего поста и сохраняет в get_top_term( )
- * Plugin URI:  https://wp-kama.ru/question/kak-poluchaet-element-taksonomii-verhnego-urovnya-dlya-ukazannoj-zapisi
+ * Plugin URI:  https://github.com/seojacky/get-top-term
  * Author: @big_jacky
  * Author URI: https://t.me/big_jacky
  * Plugin URI: https://github.com/seojacky/get-top-term
